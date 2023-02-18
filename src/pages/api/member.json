@@ -1,0 +1,208 @@
+{
+  "groupName": "WJSN",
+  "pmRoomCards": [
+    {
+      "roomId": 90,
+      "userId": 2035721064356647400,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/08/12/x3cMqM5eHS4ItDS5m3qJvA.png?type=w300",
+      "nickname": "샤키",
+      "profileMessage": "현상금:10000원",
+      "name": "SEOLA",
+      "planetName": "WJSN",
+      "updatedAt": "2022-08-12T15:23:09.685Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "설아",
+        "SEOLA",
+        "ソラ"
+      ],
+      "reserved": false
+    },
+    {
+      "roomId": 91,
+      "userId": 1954826911742415600,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/10/24/y4fjyuVsISvPbzcteScwuM.png?type=w300",
+      "nickname": "뽀야!",
+      "profileMessage": "입니다아",
+      "name": "BONA",
+      "planetName": "WJSN",
+      "updatedAt": "2022-10-24T13:16:34.627Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "보나",
+        "BONA",
+        "ボナ"
+      ],
+      "reserved": false
+    },
+    {
+      "roomId": 92,
+      "userId": 5069355247244393000,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/10/21/k5oApXbWIddpek12aCCUhF.jpg?type=w300",
+      "nickname": "로다",
+      "profileMessage": "쀼",
+      "name": "LUDA",
+      "planetName": "WJSN",
+      "updatedAt": "2022-10-21T14:22:30.667Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "루다",
+        "LUDA",
+        "ルダ"
+      ],
+      "reserved": false
+    },
+    {
+      "roomId": 93,
+      "userId": 243014384239662080,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/06/03/o_7eVLrzjtBy7AZIjPcNze9P.png?type=w300",
+      "nickname": "DAWON",
+      "profileMessage": "우주소녀 다오니",
+      "name": "DAWON",
+      "planetName": "WJSN",
+      "updatedAt": "2022-06-03T08:44:25.920Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "다원",
+        "DAWON",
+        "ダウォン"
+      ],
+      "reserved": false
+    },
+    {
+      "roomId": 94,
+      "userId": 6095974143187636000,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/11/09/x3hJsKzTBF1kla9FFBgtwD.jpg?type=w300",
+      "nickname": "강아지",
+      "profileMessage": "엑시또는소정추",
+      "name": "EXY",
+      "planetName": "WJSN",
+      "updatedAt": "2022-11-09T04:00:53.379Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "엑시",
+        "EXY",
+        "エクシ"
+      ],
+      "reserved": false
+    },
+    {
+      "roomId": 95,
+      "userId": 8655334370561676000,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/11/21/gyGstejuQC3HfN9le9qzfn.jpg?type=w300",
+      "nickname": "뚜비뚜밥뚜빈",
+      "profileMessage": "숨은박숩찾기",
+      "name": "SOOBIN",
+      "planetName": "WJSN",
+      "updatedAt": "2022-11-21T13:10:38.876Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "수빈",
+        "SOOBIN",
+        "スビン"
+      ],
+      "reserved": false
+    },
+    {
+      "roomId": 96,
+      "userId": 5463839564935826000,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/10/09/iDSRZLc6BlYobeWWryfMHO.jpg?type=w300",
+      "nickname": "은서",
+      "profileMessage": "우저어엉",
+      "name": "EUNSEO",
+      "planetName": "WJSN",
+      "updatedAt": "2022-11-18T02:09:35.385Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "은서",
+        "EUNSEO",
+        "ウンソ"
+      ],
+      "reserved": false
+    },
+    {
+      "roomId": 97,
+      "userId": 7077585596836505000,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/11/21/bxFv2v85H1TlafbjezP4jG.jpg?type=w300",
+      "nickname": "름둥이",
+      "profileMessage": "안녕하세요 제가 바로 퀸덤 1등한 퀸여름입니댜",
+      "name": "YEOREUM",
+      "planetName": "WJSN",
+      "updatedAt": "2022-11-21T11:50:12.637Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "여름",
+        "YEOREUM",
+        "ヨルム"
+      ],
+      "reserved": false
+    },
+    {
+      "roomId": 98,
+      "userId": 6035978306678904000,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/11/11/diHuGsBSMNXqUwjdQax6EA.jpg?type=w300",
+      "nickname": "왕밤빵귀여운다영이에",
+      "profileMessage": "냠",
+      "name": "DAYOUNG",
+      "planetName": "WJSN",
+      "updatedAt": "2022-11-18T04:43:02.204Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "다영",
+        "DAYOUNG",
+        "ダヨン"
+      ],
+      "reserved": false
+    },
+    {
+      "roomId": 99,
+      "userId": 5926199399463285000,
+      "type": "SUBSCRIPTION",
+      "status": "OPENED",
+      "imagePath": "https://d2nmfrc2pe2bsk.cloudfront.net/2022/06/03/o_ch8xiSgZC1bi8S0oDNRrNA.png?type=w300",
+      "nickname": "YEONJUNG",
+      "profileMessage": "연정 입니다.",
+      "name": "YEONJUNG",
+      "planetName": "WJSN",
+      "updatedAt": "2022-06-03T08:50:53.406Z",
+      "subscribed": false,
+      "subscriptionStatus": "NONE",
+      "metaNames": [
+        "연정",
+        "YEONJUNG",
+        "ヨンジョン"
+      ],
+      "reserved": false
+    }
+  ],
+  "metaGroupNames": [
+    "WJSN"
+  ]
+}
