@@ -11,6 +11,7 @@ export default function ShowTime({ links }: { links: string[] }) {
   return (
     <p>
       {new Intl.DateTimeFormat("en-US", {
+        dateStyle: "short",
         timeStyle: "medium",
       }).format(expires * 1000)}
     </p>
